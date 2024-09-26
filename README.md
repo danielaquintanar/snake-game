@@ -9,7 +9,14 @@ Keep track of your score to see how well you’re doing.
 The game ends if the snake hits a wall or its own body.
 Challenge escalates as the snake gets longer.
 
-#How to play
+# Author
+Daniela Quintanar
+
+# Technologies Used 
+Python
+Pygame
+
+# How to play
 Clone the repository to your local machine.
 Make sure you have Python and Pygame installed on your system.
 Run the game using the command python snake_game.py.
@@ -17,6 +24,12 @@ Use the arrow keys to control the snake's direction.
 Collect the food items to grow the snake and earn points.
 Avoid running into walls or the snake's tail.
 Try to achieve the highest score before the game ends.
+
+
+
+
+
+
 
 
 
