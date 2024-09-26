@@ -1,5 +1,5 @@
 # snake-game
-#Project Description
+Project Description
 The Snake Game is a timeless classic that has captivated players of all ages. In this exciting adventure, you control a snake that moves across the screen, seeking food to grow and increase your score. As the snake feasts, it becomes longer, making the challenge more intense as you must avoid crashing into walls or itself. This project is developed in Python using the Pygame library, which allows for the creation of a visually appealing and interactive experience. Get ready to test your reflexes and improve your skills as you strive for the highest score possible!
 
 # Key Features
